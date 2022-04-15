@@ -19,11 +19,13 @@ key = x/y/z
 value = a
 
  
+Usage:
 
-Hints
+> python3 PS3_solution.py
 
-We would like to see some tests. A quick read to help you along the way
 
- 
+Important Points:
 
-We would expect it in any other language apart from elixir.
+1. python3 installation required before running the code
+
+
